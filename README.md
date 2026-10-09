@@ -75,7 +75,7 @@
 <br>
 广东首个千亿县。不靠补短板，靠在大湾区网络里<b>多占几个位置</b>。
 <br>
-<b>给普通人做的风洞</b>——12镇吃喝玩乐、按月当季农产品、6 源实时热搜。
+<b>决策者做压力测试、普通人看懂自己的地方</b>——12镇吃喝玩乐、按月当季农产品、6 源实时热搜。
 <br>
 <a href="https://zhanglingshare.github.io/boluo-simulator/">▶ 在线体验</a> ｜ <a href="https://github.com/zhanglingshare/boluo-simulator">源码</a>
 </td>
