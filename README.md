@@ -69,11 +69,22 @@
 <a href="https://zhanglingshare.github.io/zhongkai-simulator/zhongkai_simulator.html">▶ 在线体验</a> ｜ <a href="https://github.com/zhanglingshare/zhongkai-simulator">源码</a>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/zhanglingshare/boluo-simulator"><img src="assets/boluo.jpg" alt="博罗产业决策风洞"></a>
+<br>
+<b>博罗产业决策风洞</b>
+<br>
+广东首个千亿县。不靠补短板，靠在大湾区网络里<b>多占几个位置</b>。
+<br>
+<a href="https://zhanglingshare.github.io/boluo-simulator/">▶ 在线体验</a> ｜ <a href="https://github.com/zhanglingshare/boluo-simulator">源码</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
 <a href="https://github.com/zhanglingshare/decision-windtunnel"><img src="assets/windtunnel.jpg" alt="区域产业决策风洞"></a>
 <br>
-<b>区域产业决策风洞</b>
+<b>区域产业决策风洞（通用模板）</b>
 <br>
-不用安装、不用联网，单文件打开，就能给区域产业做一次体检。
+不用安装、不用联网，单文件打开，就能给任意一个区域做一次体检。
 <br>
 <a href="https://github.com/zhanglingshare/decision-windtunnel">源码</a>
 </td>
