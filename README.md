@@ -32,7 +32,7 @@
 <br><br>
 <b>博罗产业决策风洞</b>
 <br>
-县域产业与 12 个镇街，含每日热搜、当季农产品与去处人气。
+县域产业与各镇街，含每日热搜、当季农产品与去处人气。
 <br><br>
 <a href="https://zhanglingshare.github.io/boluo-simulator/">在线体验</a> ｜ <a href="https://github.com/zhanglingshare/boluo-simulator">源码</a>
 </td>
